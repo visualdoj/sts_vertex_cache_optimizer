@@ -22,7 +22,7 @@ unit sts_vertex_cache_optimizer;
 // Read more about the algorithm here: https://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html
 //
 // Vertex indices input has to be triangles, and the resulting optimized indices will be stored in same index buffer.
-// The default cache inout size is 32, but the algorithm is universially good for all cache sizes regardless of
+// The default cache input size is 32, but the algorithm is universially good for all cache sizes regardless of
 // the input cache size. So, if you don't know the cache size you are optimizing for, this is AFAIK as good
 // as you can get.
 //
