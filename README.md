@@ -1,7 +1,7 @@
 # sts vertex cache oprimizer
 
-Pascal port of [C version](https://github.com/Sigkill79/sts), public domain
-library that does vertex optimization for GPU cache, as described in
+Pascal port of public domain [C library](https://github.com/Sigkill79/sts) that
+does vertex optimization for GPU cache, as described in
 [Tom Forsyth's Linear-Speed Vertex Cache Optimisation](https://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html).
 
 # Documentation
