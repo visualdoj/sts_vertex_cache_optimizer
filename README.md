@@ -1,4 +1,4 @@
-# sts vertex cache oprimizer
+# sts vertex cache optimizer
 
 Pascal port of public domain [C library](https://github.com/Sigkill79/sts) that
 does vertex optimization for GPU cache, as described in
